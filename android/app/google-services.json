@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "759140094517",
+    "firebase_url": "https://pamobile-first-flutter.firebaseio.com",
+    "project_id": "pamobile-first-flutter",
+    "storage_bucket": "pamobile-first-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759140094517:android:0e93f3bef11b7da0",
+        "android_client_info": {
+          "package_name": "com.pamobile.pamobilefirstflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759140094517-cflua2m1rbk3e1kdvab0vhefg1qcr67b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2leRnmRhd2-QzJZDCnRTXe6JVOfCjOSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
